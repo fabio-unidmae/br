@@ -24,7 +24,7 @@ function mudaImg(i) {
 		
 	}
 	
-	document.getElementById("http://i66.tinypic.com/xqf2ia.png").setAttribute("class", "");
+	document.getElementById("banner_img_1").setAttribute("class", "");
 	document.getElementById("banner_img_2").setAttribute("class", "");
 	document.getElementById("banner_img_3").setAttribute("class", "");
 	document.getElementById("banner_img_4").setAttribute("class", "");
